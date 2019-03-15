@@ -1,9 +1,9 @@
 # Site settings
-title: 囤什么 Blog
+title: 囤什么
 SEOTitle: 囤什么的博客 | tunsm Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: 
+description: "三分天注定，七分靠打拼，爱拼才会赢！"
 keyword: "tunsm, tunsm Blog, 囤什么的博客, 图你什么, 囤什么, iOS, Apple, iPhone"
 url: "http://tunsm.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
