@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏
 sidebar-about-description: "人一生中 必须有一样 不以此谋生的工作"   # "说点装逼的话。。。"
-sidebar-avatar: /img/about-BY-gentle.jpg     # 你的个人头像 这里你可以改成在img文件夹中的备用照片
+sidebar-avatar: /img/avatar_m.jpg     # 你的个人头像 这里你可以改成在img文件夹中的备用照片
 
 
 
