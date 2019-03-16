@@ -3,7 +3,7 @@ title: 囤什么？      #你博客的标题
 SEOTitle: 囤什么的博客 | tun Sm Blog     #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg    #显示在首页的背景图片
 email: 
-description: "人过留名 雁过留声 点滴记录！"   #网站介绍
+description: "人过留名 雁过留声 点滴记录"   #网站介绍
 keyword: "tunsm, tun Sm, tun Sm Blog, 囤什么的博客, 图你什么, 囤什么"   #关键词
 url: "http://tunsm.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'这个我们不用填写
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏
-sidebar-about-description: "人一生中 必须有一样 不以此谋生的工作"   # "说点装逼的话。。。"
+sidebar-about-description: "人过留名 雁过留声"   # "说点装逼的话。。。"
 sidebar-avatar: /img/avatar_m.jpg     # 你的个人头像 这里你可以改成在img文件夹中的备用照片
 
 
